@@ -1,1 +1,2 @@
-npm install express mysql2 jsonwebtoken bcrypt cors dotenv
+npm install express mysql2 jsonwebtoken bcrypt cors dotenv axios react-router-dom
+server/.env -- for sql database passwords and stuff
